@@ -1,6 +1,3 @@
-# Roome-Teinco
-
-[![GitHub-Banner](undraw_static_assets_rpm6.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
 
 <h1 align="center">
   Roomer Teinco
