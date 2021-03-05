@@ -1,0 +1,27 @@
+{
+  "name": "roomer-teinco",
+  "version": "1.0.0",
+  "description": "Development of a web interface for the registration of rooms in Teinco.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "vite",
+    "build": "postcss css/tailwind.css -o public/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlonProgramming/Roomer-Teinco.git"
+  },
+  "author": "Jefferson Ocampo, Sebastian Hurtado y Marlon S. Diaz Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerlonProgramming/Roomer-Teinco/issues"
+  },
+  "homepage": "https://github.com/MerlonProgramming/Roomer-Teinco#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.7",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.5"
+  }
+}
+
