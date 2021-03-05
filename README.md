@@ -1,5 +1,6 @@
 # Roome-Teinco
-[![GitHub-Banner](undraw_tailwind_css_1egw.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
+
+[![GitHub-Banner](undraw_static_assets_rpm6.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
 
 <h1 align="center">
   Roomer Teinco
@@ -15,11 +16,11 @@
 
 Development of a web interface for the registration of rooms in Teinco.
 
-##  Features
+## Features
 
 Just fill in the details such as Form Cars with adobe XD.
 
-##  Installation Steps
+## Installation Steps
 
 1. Clone the repository
 
@@ -45,21 +46,21 @@ node and npm ( npm install )
 is a template (with a server or open the html)
 ```
 
- You are all set!
+You are all set!
 
 <!-- ##  Contributing -->
 
-##  Built with
+## Built with
 
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 
-##  Sponsors
+## Sponsors
 
 - [Sebastian Hurtado]() The best contributed
 - [Jefferson Ocampo]() Contributed for the Database
 - [Marlon S. Diaz Lopez]() I am Contribute with the code
 
-##  Support
+## Support
 
 <p align="left">
   <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
