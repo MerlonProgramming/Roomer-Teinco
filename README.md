@@ -46,7 +46,9 @@ is a template (with a server or open the html)
 
 You are all set!
 
-<!-- ##  Contributing -->
+## Contributing
+
+[![GitHub-Banner](Landing.PNG)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
 
 ## Built with
 
